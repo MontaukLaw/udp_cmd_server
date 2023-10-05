@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/stream_server.dir/src/app.c.o CMakeFiles/stream_server.dir/src/cmd_parse.c.o  -o stream_server 
