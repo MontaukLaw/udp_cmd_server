@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "cmd_parse.h": "c"
+        "cmd_parse.h": "c",
+        "app_comm.h": "c"
     }
 }

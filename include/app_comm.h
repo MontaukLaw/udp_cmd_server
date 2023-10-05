@@ -6,6 +6,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <arpa/inet.h>
+#include <stdbool.h>
 
 void parse_cmd(char *cmd, int cmd_len);
 
